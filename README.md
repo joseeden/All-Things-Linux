@@ -1,6 +1,9 @@
 
 # All Things Linux 
 
+> **This repository is now archived.**
+> **All future documentations can be accessed on my personal website.**
+
 This repository contains projects on Linux that I've been working on since the first time I opened a terminal. 
 This will also serve as a collection of notes that I've gathered over some Linux scenarios I've encountered.
 
